@@ -1,0 +1,15 @@
+= SmallSketch one (ss one)
+Tomoaki Oshima <https://smallsketch.app/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: images
+
+This document explains __ss one__ version 1.0.2.
+
+[NOTE]
+
+include::user-guide.adoc[]

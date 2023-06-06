@@ -1,0 +1,67 @@
+
+= User Guide
+
+== Introduction
+
+The ss one is a simple hand-writing / hand-drawing app for Galaxy Tab and S-Pen.
+It has just one large canvas that is almost infinity space.
+
+image::screenshots/overview.png[alt=ss one, width=600]
+
+
+=== Key Features
+
+* Export as SVG to Google Drive and import.
+* Draw stroke lines with S Pen (3 colors)
+* Canvas scroll with two fingers
+* Undo/Redo
+* Two mode:
+** Lasso mode: lassoing strokes and move, resize, rotate them with S Pen Button
+** Eraser mode: erase strokes with S Pen Button
+
+
+
+=== Requirements
+
+* Android 6.0 and up.
+* Galaxy Tab with S-Pen. 
+
+This app depends on S Pen and S Pen Button.
+
+
+=== Installation
+
+Get https://play.google.com/store/apps/details?id=app.smallsketch.one["ss one" app on Google Play].
+
+
+=== Getting help
+
+If you have any questions, please https://www.mindboardapps.com/contact.html[make contact].
+And also your feedback will be much appreciated.
+
+
+== Usage
+
+=== Basic Operation
+
+All operations but canvas scrolling with S Pen. Using two fingers, you can scroll the canvas.
+
+image::canvas.png[alt=canvas, width=360]
+
+
+=== Select Stroke Lines
+
+You can select stroke lines to lasso them with S Pen Button.
+
+image::lassoing-stroke-lines.png[alt=lassoing, width=360]
+
+And then you can do these operations:
+
+* move
+* resize
+* rotate
+* export as SVG
+
+[NOTE]
+To export, use the the Export Button on the top-left corner.
+
