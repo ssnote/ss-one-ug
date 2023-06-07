@@ -62,6 +62,8 @@ And then you can do these operations:
 * rotate
 * export as SVG
 
+How to move, resize, rotate, see this video: https://youtu.be/1GCh9_fCOf0[https://youtu.be/1GCh9_fCOf0].
+
 [NOTE]
 To export, use the the Export Button on the top-left corner.
 
