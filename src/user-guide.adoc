@@ -11,13 +11,14 @@ image::screenshots/overview.png[alt=ss one, width=600]
 
 === Key Features
 
-* Export as SVG to Google Drive and import.
 * Draw stroke lines with S Pen (3 colors)
 * Canvas scroll with two fingers
 * Undo/Redo
-* Two mode:
-** Lasso mode: lassoing strokes and move, resize, rotate them with S Pen Button
-** Eraser mode: erase strokes with S Pen Button
+* Modes (under drawing with S Pen Button):
+** Lasso mode: lassoing strokes and move, resize, rotate
+** Eraser mode: erase strokes
+* Export as SVG ( including native ss one data ) to Google Drive
+** Import SVG with including native ss one data from Google Drive
 
 
 
