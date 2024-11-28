@@ -1,5 +1,5 @@
 = SmallSketch one (ss one)
-Tomoaki Oshima <https://smallsketch.app/>
+Tomoaki Oshima <https://www.mindboardapps.com/>
 :doctype: book
 :source-highlighter: coderay
 :toc: left
